@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+
+<ui>
+  <menu name='Exit'>
+  </menu>
+  <menu name='System'>
+  </menu>
+  <menu name='Programs'>
+    <menu name='Web Browser'>
+    </menu>
+    <menu name='Text Editor'>
+    </menu>    
+  </menu>
+  <menu name='Agenda'>
+    <menu name='Sintrom'>
+    </menu>
+    <menu name='Schichtplan'>
+    </menu>
+  </menu>
+</ui>
